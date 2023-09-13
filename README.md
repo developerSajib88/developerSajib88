@@ -1,6 +1,6 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E1BAQGuWR2hKL7iIA/company-background_10000/0/1615201220939?e=2147483647&v=beta&t=NNBDLFaDfYm6sKvyljgPPbl9nJgzm3WbNyfQynDeGBY)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sajib Hasan</h1>
-<h3 align="center">A passionate Application Software Developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://www.darwinrecruitment.com/wp-content/uploads/2021/10/About-us-Temp-to-Perm.gif">
 
 
