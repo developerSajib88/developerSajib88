@@ -1,4 +1,4 @@
-<h5 align="left">Computer Science Lover but Student of Political Science. Innovative Flutter Developer with 2 years of hands-on experience excelling in the creation of mobile applications for IOS and Android platforms. Over 2 years of professional engagement, consistently delivering high-quality solutions by seamlessly merging technical expertise. Adept at collaborative problem-solving and dedicated to staying on the cutting edge of technology trends.</h5>
+<h4 align="left">Computer Science Lover but Student of Political Science. Innovative Flutter Developer with 2 years of hands-on experience excelling in the creation of mobile applications for IOS and Android platforms. Over 2 years of professional engagement, consistently delivering high-quality solutions by seamlessly merging technical expertise. Adept at collaborative problem-solving and dedicated to staying on the cutting edge of technology trends.</h4>
 
 
 <h3 align="left">Languages and Frameworks:</h3>
