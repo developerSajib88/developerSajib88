@@ -1,3 +1,7 @@
+<h3 align="left">Introduction  Myself</h3>
+<h5 align="left">Computer Science Lover but Student of Political Science. Innovative Flutter Developer with 2 years of hands-on experience excelling in the creation of mobile applications for IOS and Android platforms. Over 2 years of professional engagement, consistently delivering high-quality solutions by seamlessly merging technical expertise. Adept at collaborative problem-solving and dedicated to staying on the cutting edge of technology trends.</h5>
+
+
 <h3 align="left">Development Skill </h3>
 <h5 align="left">Flutter, Dart, OOP, Functional Programming, MVC, MVP, MVVM, Clean Architecture, SOLID Principles, Feature-First, Offline-First, Flavors, Getx, Riverpod, Bloc & Cubit, Provider, FVM, Platform Channels, Isolates, Unit & Integration Testing, Flutter Localizations, Routing Management, Deep Linking, Dynamic Linking, Equatable, Hooks, Rest API, Socket.io/WebSocket, Singleton, Dependency Injection, Firebase, Local Database, Payment System, Notifications, Responsive Design, Flutter Animation, Map, Package & Plugin development, Android Studio, VS Code, Postman, Swagger, Figma, Git & Github, CI & CD/Agile development, Software Development Lifecycle, Node.js, Express.js, MongoDB</h5>
 
@@ -15,22 +19,22 @@
 
 <h3 align="left">Recent Project</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <a href="https://play.google.com/store/apps/details?id=com.caretutors" target="_blank" rel="noreferrer"> 
     <img src="https://play-lh.googleusercontent.com/IGi7u93koeORfET90A5tPvmetCm5DutVhjq6EFANtp_OefTzyD9MmHLohW-vSLrh5iU" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
   </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <a href="https://play.google.com/store/apps/details?id=com.caretutors_merchant" target="_blank" rel="noreferrer"> 
     <img src="https://play-lh.googleusercontent.com/wJBy9rd5waPOCQ8NWG1e0GAxqw1pGv2tdf75W3ODCsVK0hyBIR3yLridMhTfp-t1Mf9r=w240-h480-" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
   </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <a href="https://play.google.com/store/apps/details?id=com.drutoloan" target="_blank" rel="noreferrer"> 
     <img src="https://play-lh.googleusercontent.com/OfJ7qr5Vl0naIH0JdP7-Ri4eYMv1EzUnVAhBmE2bQq0beTtE4TjK8X7HMIiEACYZKT2L" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
   </a>    
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <a href="https://play.google.com/store/apps/details?id=com.menuvenu.user" target="_blank" rel="noreferrer"> 
     <img src="https://play-lh.googleusercontent.com/_4ZBDEzbdjuSV9wT9Nu4_XmyTRShpVd95arVb29Yhjo5np9Wws4NamK-b4gP12bzhw=w240-h480-rw" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
   </a>   
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <a href="https://play.google.com/store/apps/details?id=com.smarter.breakingnews" target="_blank" rel="noreferrer"> 
     <img src="https://play-lh.googleusercontent.com/3s3gXd_moDFssOI33_yBzQm4487JYVpy6ymtPj3uqKzO5PB_-qDhevaMEBGh77jPMg=w240-h480-rw" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
   </a>    
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <a href="https://play.google.com/store/apps/details?id=com.drutoloan" target="_blank" rel="noreferrer"> 
     <img src="https://play-lh.googleusercontent.com/tQUz0KRZEcqkAP_sUBJ00ZxzvnMl1Q9PkIfHNYQe-OnI6kZcznPS0sKo2iKzyZgq3w=w240-h480-rw" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
   </a>      
 </p>
