@@ -1,7 +1,3 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E1BAQGuWR2hKL7iIA/company-background_10000/0/1615201220939?e=2147483647&v=beta&t=NNBDLFaDfYm6sKvyljgPPbl9nJgzm3WbNyfQynDeGBY)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Sajib Hasan</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
-<h4 align="center">Computer Science Lover but Student of Political Science. Innovative Flutter Developer with 2 years of hands-on experience excelling in the creation of mobile applications for IOS and Android platforms. Over 1 years of professional engagement, consistently delivering high-quality solutions by seamlessly merging technical expertise. Adept at collaborative problem-solving and dedicated to staying on the cutting edge of technology trends.</h4>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
