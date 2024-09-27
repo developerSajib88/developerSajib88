@@ -1,7 +1,3 @@
-
-<h1 align="center">Hi 👋, I'm Sajib Hasan</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png" alt="android" width="40" height="40"/> </a> 
@@ -13,6 +9,10 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" alt="Figma" width="40" height="40"/> </a>
 </p>
+
+<h3 align="center">Development Skill </h3>
+<h5 align="center">Flutter, Dart, OOP, Functional Programming, MVC, MVP, MVVM, Clean Architecture, SOLID Principles, Feature-First, Offline-First, Flavors, Getx, Riverpod, Bloc & Cubit, Provider, FVM, Platform Channels, Isolates, Unit & Integration Testing, Flutter Localizations, Routing Management, Deep Linking, Dynamic Linking, Equatable, Hooks, Rest API, Socket.io/WebSocket, Singleton, Dependency Injection, Firebase, Local Database, Payment System, Notifications, Responsive Design, Flutter Animation, Map, Package & Plugin development, Android Studio, VS Code, Postman, Swagger, Figma, Git & Github, CI & CD/Agile development, Software Development Lifecycle, Node.js, Express.js, MongoDB</h5>
+
 
 
 <h3 align="center">Connect with me</h3>
