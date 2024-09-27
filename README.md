@@ -1,5 +1,8 @@
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<h3 align="left">Development Skill </h3>
+<h5 align="left">Flutter, Dart, OOP, Functional Programming, MVC, MVP, MVVM, Clean Architecture, SOLID Principles, Feature-First, Offline-First, Flavors, Getx, Riverpod, Bloc & Cubit, Provider, FVM, Platform Channels, Isolates, Unit & Integration Testing, Flutter Localizations, Routing Management, Deep Linking, Dynamic Linking, Equatable, Hooks, Rest API, Socket.io/WebSocket, Singleton, Dependency Injection, Firebase, Local Database, Payment System, Notifications, Responsive Design, Flutter Animation, Map, Package & Plugin development, Android Studio, VS Code, Postman, Swagger, Figma, Git & Github, CI & CD/Agile development, Software Development Lifecycle, Node.js, Express.js, MongoDB</h5>
+
+<h3 align="left">Languages and Frameworks:</h3>
+<p align="left" margin-right="100px" border-radius= "50%"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  
@@ -10,13 +13,37 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" alt="Figma" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">Development Skill </h3>
-<h5 align="center">Flutter, Dart, OOP, Functional Programming, MVC, MVP, MVVM, Clean Architecture, SOLID Principles, Feature-First, Offline-First, Flavors, Getx, Riverpod, Bloc & Cubit, Provider, FVM, Platform Channels, Isolates, Unit & Integration Testing, Flutter Localizations, Routing Management, Deep Linking, Dynamic Linking, Equatable, Hooks, Rest API, Socket.io/WebSocket, Singleton, Dependency Injection, Firebase, Local Database, Payment System, Notifications, Responsive Design, Flutter Animation, Map, Package & Plugin development, Android Studio, VS Code, Postman, Swagger, Figma, Git & Github, CI & CD/Agile development, Software Development Lifecycle, Node.js, Express.js, MongoDB</h5>
+<h3 align="left">Recent Project</h3>
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://play-lh.googleusercontent.com/IGi7u93koeORfET90A5tPvmetCm5DutVhjq6EFANtp_OefTzyD9MmHLohW-vSLrh5iU" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
+  </a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://play-lh.googleusercontent.com/wJBy9rd5waPOCQ8NWG1e0GAxqw1pGv2tdf75W3ODCsVK0hyBIR3yLridMhTfp-t1Mf9r=w240-h480-" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
+  </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://play-lh.googleusercontent.com/OfJ7qr5Vl0naIH0JdP7-Ri4eYMv1EzUnVAhBmE2bQq0beTtE4TjK8X7HMIiEACYZKT2L" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
+  </a>    
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://play-lh.googleusercontent.com/_4ZBDEzbdjuSV9wT9Nu4_XmyTRShpVd95arVb29Yhjo5np9Wws4NamK-b4gP12bzhw=w240-h480-rw" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
+  </a>   
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://play-lh.googleusercontent.com/3s3gXd_moDFssOI33_yBzQm4487JYVpy6ymtPj3uqKzO5PB_-qDhevaMEBGh77jPMg=w240-h480-rw" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
+  </a>    
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://play-lh.googleusercontent.com/tQUz0KRZEcqkAP_sUBJ00ZxzvnMl1Q9PkIfHNYQe-OnI6kZcznPS0sKo2iKzyZgq3w=w240-h480-rw" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
+  </a>      
+</p>
 
 
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://linkedin.com/in/sajib-hasan-2b89bb202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajib-hasan-2b89bb202" height="30" width="40" /></a>
+<h3 align="left">Problem Solving Skill</h3>
+<p align="left"> <a href="https://leetcode.com/u/developerSajib88/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" alt="android" height="40"/> </a>
+</p>
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="developersajib88@gmail.com" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="freelancer.sajib.98" height="25" width="30" /></a>    
+<a href="https://linkedin.com/in/sajib-hasan-2b89bb202" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="30" width="30" /></a>
 <a href="https://fb.com/freelancer.sajib.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="freelancer.sajib.98" height="30" width="40" /></a>
 </p>
