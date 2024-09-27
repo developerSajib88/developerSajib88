@@ -2,9 +2,6 @@
 <h5 align="left">Computer Science Lover but Student of Political Science. Innovative Flutter Developer with 2 years of hands-on experience excelling in the creation of mobile applications for IOS and Android platforms. Over 2 years of professional engagement, consistently delivering high-quality solutions by seamlessly merging technical expertise. Adept at collaborative problem-solving and dedicated to staying on the cutting edge of technology trends.</h5>
 
 
-<h3 align="left">Development Skill </h3>
-<h5 align="left">Flutter, Dart, OOP, Functional Programming, MVC, MVP, MVVM, Clean Architecture, SOLID Principles, Feature-First, Offline-First, Flavors, Getx, Riverpod, Bloc & Cubit, Provider, FVM, Platform Channels, Isolates, Unit & Integration Testing, Flutter Localizations, Routing Management, Deep Linking, Dynamic Linking, Equatable, Hooks, Rest API, Socket.io/WebSocket, Singleton, Dependency Injection, Firebase, Local Database, Payment System, Notifications, Responsive Design, Flutter Animation, Map, Package & Plugin development, Android Studio, VS Code, Postman, Swagger, Figma, Git & Github, CI & CD/Agile development, Software Development Lifecycle, Node.js, Express.js, MongoDB</h5>
-
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left" margin-right="100px" border-radius= "50%"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png" alt="android" width="40" height="40"/> </a> 
