@@ -13,7 +13,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" alt="Figma" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Recent Project</h3>
+<h3 align="left">Portfolio</h3>
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.caretutors" target="_blank" rel="noreferrer"> 
     <img src="https://play-lh.googleusercontent.com/IGi7u93koeORfET90A5tPvmetCm5DutVhjq6EFANtp_OefTzyD9MmHLohW-vSLrh5iU" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
