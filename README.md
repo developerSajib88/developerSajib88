@@ -2,7 +2,7 @@
 
 
 <h3 align="left">Languages :</h3>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+ </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="dart" width="35" height="35"/> </a>  
  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://techterms.com/img/lg/swift_1294.png" alt="dart" width="40" height="40"/> </a>  
  <a href="https://www.java.com" target="_blank" rel="noreferrer">  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="postman" width="40" height="40"/>  
