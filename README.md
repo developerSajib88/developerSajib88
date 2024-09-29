@@ -1,7 +1,18 @@
 <h4 align="left">Computer Science Lover but Student of Political Science. Innovative Flutter Developer with 3 years of hands-on experience excelling in the creation of mobile applications for IOS and Android platforms. Over 2 years of professional engagement, consistently delivering high-quality solutions by seamlessly merging technical expertise. Adept at collaborative problem-solving and dedicated to staying on the cutting edge of technology trends.</h4>
 
 
-<h3 align="left">Frameworks, Languages and Tools:</h3>
+<h3 align="left">Languages :</h3>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+ <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="dart" width="35" height="35"/> </a>  
+ <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://techterms.com/img/lg/swift_1294.png" alt="dart" width="40" height="40"/> </a>  
+ <a href="https://www.java.com" target="_blank" rel="noreferrer">  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="postman" width="40" height="40"/>  
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+</p>
+
+
+
+
+<h3 align="left">Frameworks :</h3>
 <p align="left" margin-right="100px" border-radius= "50%"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
@@ -12,6 +23,12 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" alt="Figma" width="40" height="40"/> </a>
 </p>
+
+
+
+
+
+
 
 <h3 align="left">Portfolio</h3>
 <p align="left">
@@ -43,7 +60,7 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="developersajib88@gmail.com" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="freelancer.sajib.98" height="25" width="30" /></a>    
+<a href="developersajib88@gmail.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--mail-email-logos-icons-2416660.png" alt="freelancer.sajib.98" height="45" width="40" /></a>    
 <a href="https://linkedin.com/in/sajib-hasan-2b89bb202" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="30" width="30" /></a>
 <a href="https://fb.com/freelancer.sajib.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="freelancer.sajib.98" height="30" width="40" /></a>
 </p>
