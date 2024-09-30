@@ -27,7 +27,7 @@
 
 
 
-<h3 align="left">Languages :</h3>
+<h3 align="left">Languages</h3>
  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="dart" width="35" height="35"/> </a>  
  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://techterms.com/img/lg/swift_1294.png" alt="dart" width="40" height="40"/> </a>  
@@ -36,7 +36,7 @@
 </p>
 
 
-<h3 align="left">Databases And Frameworks :</h3>
+<h3 align="left">Databases And Frameworks</h3>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="flutter" width="40" height="40"/> </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://editor.analyticsvidhya.com/uploads/22024tf.png" alt="flutter" width="40" height="40"/> </a>  
@@ -46,7 +46,7 @@
 </p>
 
 
-<h3 align="left">Tools :</h3>
+<h3 align="left">Tools</h3>
 <p align="left" margin-right="100px" border-radius= "50%"> 
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="git" width="40" height="40"/> </a>  
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="git" width="40" height="40"/> </a> 
