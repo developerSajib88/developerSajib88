@@ -10,10 +10,10 @@
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.caretutors_merchant" target="_blank" rel="noreferrer"> 
     <img src="https://play-lh.googleusercontent.com/wJBy9rd5waPOCQ8NWG1e0GAxqw1pGv2tdf75W3ODCsVK0hyBIR3yLridMhTfp-t1Mf9r=w240-h480-" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
-<!--   </a> 
+  </a> 
   <a href="https://play.google.com/store/apps/details?id=com.drutoloan" target="_blank" rel="noreferrer"> 
     <img src="https://play-lh.googleusercontent.com/OfJ7qr5Vl0naIH0JdP7-Ri4eYMv1EzUnVAhBmE2bQq0beTtE4TjK8X7HMIiEACYZKT2L" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
-  </a>     -->
+  </a>    
   <a href="https://play.google.com/store/apps/details?id=com.menuvenu.user" target="_blank" rel="noreferrer"> 
     <img src="https://play-lh.googleusercontent.com/_4ZBDEzbdjuSV9wT9Nu4_XmyTRShpVd95arVb29Yhjo5np9Wws4NamK-b4gP12bzhw=w240-h480-rw" alt="android" width="40" height="40" style="border-radius: 25%; margin-right: 20px;"/> 
   </a>   
